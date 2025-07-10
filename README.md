@@ -1,6 +1,6 @@
 # 🧠 howmanyofme – Discover How Unique Your Name Is
 
-https://raw.githubusercontent.com/abhinav4747/howmanyofme/main/Screenshot%202025-05-13%20164129.png
+![howmanyofme screenshot](https://raw.githubusercontent.com/abhinav4747/howmanyofme/main/Screenshot%202025-05-13%20164129.png)
 
 🔗 **Live Demo**: [https://howmany-ofme.info/](https://howmany-ofme.info/)
 
