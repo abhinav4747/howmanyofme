@@ -1,6 +1,6 @@
 # 🧠 howmanyofme – Discover How Unique Your Name Is
 
-![howmanyofme screenshot](https://raw.githubusercontent.com/abhinav4747/howmanyofme/main/Screenshot%202025-05-13%20164129.png)
+![AI-powered name search tool – howmanyofme](https://raw.githubusercontent.com/abhinav4747/howmanyofme/main/howmanyofme-name-search-tool.png)
 
 🔗 **Live Demo**: [https://howmany-ofme.info/](https://howmany-ofme.info/)
 
