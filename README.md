@@ -1,5 +1,7 @@
 # 🧠 howmanyofme – Discover How Unique Your Name Is
 
+https://github.com/abhinav4747/howmanyofme/blob/main/Screenshot%202025-05-13%20164129.png
+
 🔗 **Live Demo**: [https://howmany-ofme.info/](https://howmany-ofme.info/)
 
 ---
@@ -26,14 +28,6 @@ No sign-up required — just enter your name and get results in seconds.
 - 🧾 Clean results with minimal load time
 
 ---
-
-## 📷 Screenshots
-
-To display images/screenshots in this README:
-
-1. Create an `/images` folder in the root of the repo.
-2. Upload your image file(s) there.
-3. Use this Markdown code:
 
 ## 🛠️ Tech Stack
 
