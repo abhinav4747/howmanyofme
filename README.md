@@ -34,3 +34,21 @@ To display images/screenshots in this README:
 1. Create an `/images` folder in the root of the repo.
 2. Upload your image file(s) there.
 3. Use this Markdown code:
+
+## 🛠️ Tech Stack
+
+HTML, CSS, JavaScript
+Bootstrap
+
+## 🔍 SEO Keywords
+
+howmanyofme
+how many people have my name
+name uniqueness tool
+AI name checker\
+name lookup by AI\
+name frequency search
+unique name finder online\
+how common is my name
+
+
